@@ -1,0 +1,26 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${workspaceFolder}/.vscode/browse.vc.db",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/opt/ros/melodic/include/**",
+        "/home/think/cartographer_detailed_comments_ws/install_isolated/include/**",
+        "/home/think/catkin_ws/create_2d_slam_ws/src/lesson2/include/**",
+        "/home/think/catkin_ws/create_2d_slam_ws/src/lesson3/include/**",
+        "/home/think/catkin_ws/create_2d_slam_ws/src/lesson4/include/**",
+        "/home/think/catkin_ws/create_2d_slam_ws/src/lesson5/include/**",
+        "/home/think/catkin_ws/create_2d_slam_ws/src/lesson6/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
